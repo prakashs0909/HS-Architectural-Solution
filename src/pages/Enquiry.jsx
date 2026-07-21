@@ -20,7 +20,7 @@ export const Enquiry = () => {
       'mainEntity': {
         '@type': 'LocalBusiness',
         'name': 'HS Architectural Solutions',
-        'telephone': '+91-7942957964',
+        'telephone': '+91-8448103775',
         'address': {
           '@type': 'PostalAddress',
           'streetAddress': 'Mustli No 137, Khewat No 311/284, Khatauni No 335, Near ACP Farm House, Behind Nayagaon Petrolpump, Nayagaon',
@@ -217,7 +217,7 @@ export const Enquiry = () => {
                 <div>
                   <h4 className="font-semibold text-white mb-1.5 font-display">Call / Whatsapp Contacts</h4>
                   <p className="text-xs text-slate-300 font-mono flex flex-col gap-1">
-                    <a href="tel:07942957964" className="hover:text-brand-gold text-sm transition-colors">+91 7942957964 (Main)</a>
+                    <a href="tel:+918448103775" className="hover:text-brand-gold text-sm transition-colors">+91 8448103775 (Main)</a>
                   </p>
                 </div>
               </div>

@@ -30,9 +30,9 @@ export const Header = () => {
           <span className="hidden md:inline">Faridabad, Haryana, India</span>
         </div>
         <div className="flex items-center gap-4">
-          <a href="tel:07942957964" className="flex items-center gap-1 text-sm hover:text-brand-gold transition-colors">
+          <a href="tel:+918448103775" className="flex items-center gap-1 text-sm hover:text-brand-gold transition-colors">
             <Phone className="w-3.5 h-3.5 text-brand-gold" />
-            Call: +91 7942957964
+            Call: +91 8448103775
           </a>
           <span className="bg-emerald-500/10 text-sm text-emerald-400 border border-emerald-500/20 px-2 py-0.5 rounded text-[10px] uppercase font-bold">
             79% Response Rate

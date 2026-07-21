@@ -18,7 +18,7 @@ export const Home = () => {
       'image': 'https://www.hsarchitecturalsolutions.com/company-logo.png',
       '@id': 'https://www.hsarchitecturalsolutions.com/#localbusiness',
       'url': 'https://www.hsarchitecturalsolutions.com/',
-      'telephone': '+91-7942957964',
+      'telephone': '+91-8448103775',
       'address': {
         '@type': 'PostalAddress',
         'streetAddress': 'Mustli No 137, Khewat No 311/284, Khatauni No 335, Near ACP Farm House, Behind Nayagaon Petrolpump, Nayagaon',

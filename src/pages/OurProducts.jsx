@@ -343,7 +343,7 @@ export const OurProducts = () => {
                     </div>
                     
                     <div className="flex flex-wrap items-center gap-2 sm:gap-3">
-                      <a href="tel:07942957964" className="inline-block">
+                      <a href="tel:+918448103775" className="inline-block">
                         <Button 
                           variant="outline" 
                           size="sm" 
