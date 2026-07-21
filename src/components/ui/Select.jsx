@@ -23,7 +23,7 @@ export const Select = ({ value, onChange, options, placeholder = "Select an opti
       <button
         type="button"
         onClick={() => setIsOpen(!isOpen)}
-        className="w-full flex items-center justify-between glass-input text-left rounded-lg px-4 py-2.5 text-sm text-slate-200 placeholder-slate-400 focus:outline-none focus:border-brand-gold/60 transition-all duration-200"
+        className="w-full flex items-center justify-between bg-black border border-white/10 text-left rounded-lg px-4 py-2.5 text-sm text-slate-200 placeholder-slate-400 focus:outline-none focus:border-brand-gold/60 transition-all duration-200"
       >
         <span className={cn(!selectedOption && "text-slate-400")}>
           {selectedOption ? selectedOption.label : placeholder}
@@ -32,7 +32,7 @@ export const Select = ({ value, onChange, options, placeholder = "Select an opti
       </button>
 
       {isOpen && (
-        <div className="absolute z-50 w-full mt-1.5 glass-panel rounded-lg shadow-xl max-h-60 overflow-y-auto no-scrollbar border border-white/10">
+        <div className="absolute z-50 w-full mt-1.5 bg-black rounded-lg shadow-xl max-h-60 overflow-y-auto no-scrollbar border border-white/10">
           <ul className="py-1">
             {options.map((option) => (
               <li key={option.value}>
