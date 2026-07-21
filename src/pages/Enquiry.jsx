@@ -147,7 +147,7 @@ export const Enquiry = () => {
     setIsSubmitting(true)
 
     try {
-      const res = await fetch('http://localhost:5000/send-quote', {
+      const res = await fetch('https://hs-backend-c2mq.onrender.com/send-quote', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
