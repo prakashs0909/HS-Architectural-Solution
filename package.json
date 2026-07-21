@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start": "node scripts/generate-sitemap.js && vite",
     "dev": "vite",
     "build": "vite build && node scripts/generate-sitemap.js",
     "lint": "oxlint",
