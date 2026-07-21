@@ -321,8 +321,8 @@ export const Home = () => {
               </div>
               <div>
                 <h4 className="text-sm font-semibold text-white uppercase tracking-wider mb-2 font-display">Working Hours</h4>
-                <p className="text-xs text-slate-400 font-sans">Monday - Saturday: 09:00 AM - 07:00 PM</p>
-                <p className="text-xs text-slate-555 font-sans">Sunday: Closed</p>
+                <p className="text-xs text-slate-400 font-sans">Monday - Sunday: 09:00 AM - 07:00 PM</p>
+                {/* <p className="text-xs text-slate-555 font-sans">Sunday: Closed</p> */}
               </div>
               <div>
                 <h4 className="text-sm font-semibold text-white uppercase tracking-wider mb-2 font-display">GSTIN Registration</h4>
