@@ -1,0 +1,803 @@
+[
+  {
+    "id": "grc-and-frp-ceiling",
+    "name": "GRC AND FRP CEILING",
+    "category": "decorative-ceiling",
+    "description": "Premium quality GRC AND FRP CEILING designed for durability and architectural elegance.",
+    "price": "Rs 400 / sq ft",
+    "features": [
+      "Ceiling Type: FRP",
+      "Service Type: Supply And Fix",
+      "Design Style: Plain",
+      "Expertise Area: Barrel Vaulted Ceilings"
+    ],
+    "specifications": {
+      "Ceiling Type": "FRP",
+      "Service Type": "Supply And Fix",
+      "Design Style": "Plain",
+      "Material": "GERP",
+      "Surface Finish": "Mold Finish",
+      "Shape": "Rectangular",
+      "Thickness":"1.2 mm",
+      "Expertise Area": "Barrel Vaulted Ceilings"
+    },
+    "image": "/images/products/grc-and-frp-ceiling-primary.jpg",
+    "images": [
+      "/images/products/grc-and-frp-ceiling-primary.jpg",
+      "/images/products/grc-and-frp-ceiling-thumb.jpg",
+      "/images/products/grc-and-frp-ceiling-thumb-1.jpeg",
+      "/images/products/grc-and-frp-ceiling-thumb-2.jpeg",
+      "/images/products/grc-and-frp-ceiling-thumb-3.jpeg",
+      "/images/products/grc-and-frp-ceiling-thumb-4.jpg"
+    ]
+  },
+  {
+    "id": "grc-garden-planters",
+    "name": "GRC Garden Planters",
+    "category": "grc-planter",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 3,500 / Piece",
+    "features": [
+      "Material: FRP (Fiberglass)",
+      "Finish: Painted",
+      "Planter Height: Custom Size",
+      "Usage/Application: Garden"
+    ],
+    "specifications": {
+      "Minimun Order Quantity": "30 Piece",
+      "Material": "FRP (Fiberglass)",
+      "Finish": "Painted",
+      "Planter Height": "Custom Size",
+      "Thickness": "22mm",
+      "Usage/Application": "Garden",
+      "Placement": "Outdoor, Garden, Terrace, Lobby, Hotel, Mall, Office, Public Area"
+    },
+    "image": "/images/products/grc-garden-planters-primary.jpeg",
+    "images": [
+      "/images/products/grc-garden-planters-primary.jpeg",
+      "/images/products/grc-garden-planters-thumb.jpeg",
+      "/images/products/grc-garden-planters-thumb-1.jpeg",
+      "/images/products/grc-garden-planters-thumb-2.jpeg",
+      "/images/products/grc-garden-planters-thumb-3.jpeg",
+      "/images/products/grc-garden-planters-thumb-4.jpeg"
+    ]
+  },
+  {
+    "id": "uhpc-cladding-panel",
+    "name": "UHPC Cladding Panel",
+    "category": "grc-cladding",
+    "description": "Premium quality UHPC Cladding Panel designed for durability and architectural elegance.",
+    "price": "Rs 350 / sq ft",
+    "features": [
+      "Application Area: Exterior Wall, Interior Wall, Facade",
+      "Material: Concrete",
+      "Thickness: 15 mm",
+      "Surface Finish: Matte"
+    ],
+    "specifications": {
+      "Application Area": "Exterior Wall, Interior Wall, Facade",
+      "Material": "Concrete",
+      "Thickness": "15 mm",
+      "Surface Finish": "Matte",
+      "Width": "600 mm",
+      "Length": "2400 mm"
+    },
+    "image": "/images/products/uhpc-cladding-panel-primary.jpeg",
+    "images": [
+      "/images/products/uhpc-cladding-panel-primary.jpeg",
+      "/images/products/uhpc-cladding-panel-thumb.jpeg",
+      "/images/products/uhpc-cladding-panel-thumb-1.jpeg",
+      "/images/products/uhpc-cladding-panel-thumb-3.jpeg",
+      "/images/products/uhpc-cladding-panel-thumb-4.jpeg",
+      "/images/products/uhpc-cladding-panel-thumb-5.jpeg",
+      "/images/products/uhpc-cladding-panel-thumb-6.jpeg"
+    ]
+  },
+  {
+    "id": "grc-white-capital",
+    "name": "GRC White Capital",
+    "category": "grc-columns",
+    "description": "Premium quality GRC White Capital designed for durability and architectural elegance.",
+    "price": "Rs 600 / sq ft",
+    "features": [
+      "Shape: Custom",
+      "GRC Type: Precast GRC",
+      "Thickness: 15 mm",
+      "Material: GRC"
+    ],
+    "specifications": {
+      "Minimun Order Quantity": "200 sq ft",
+      "Shape": "Custom",
+      "GRC Type": "Precast GRC",
+      "Thickness": "15 mm",
+      "Material": "GRC",
+      "Weight per Sq. ft": "3-4kg",
+      "Dry Density": "1800kg/CUBIC MTR",
+      "Column Height": "Custom",
+      "Color": "White"
+    },
+    "image": "/images/products/grc-white-capital-primary.jpeg",
+    "images": [
+      "/images/products/grc-white-capital-primary.jpeg",
+      "/images/products/grc-white-capital-thumb.jpeg",
+      "/images/products/grc-white-capital-thumb-2.jpeg",
+      "/images/products/grc-white-capital-thumb-3.jpeg",
+      "/images/products/grc-white-capital-thumb-4.jpeg",
+      "/images/products/grc-white-capital-thumb-5.jpeg",
+      "/images/products/grc-white-capital-thumb-6.jpeg",
+      "/images/products/grc-white-capital-thumb-7.jpeg"
+    ]
+  },
+  {
+    "id": "indoor-grc-planter",
+    "name": "Indoor GRC Planter",
+    "category": "grc-planter",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 12,000 / Piece",
+    "features": [
+      "Product Diameter: Custom",
+      "Material: FRP (Fiberglass)",
+      "Finish: Natural",
+      "Planter Height: 750 mm"
+    ],
+    "specifications": {
+      "Minimun Order Quantity":"30 Piece",
+      "Product Diameter": "Custom",
+      "Material": "FRP (Fiberglass)",
+      "Finish": "Natural",
+      "Planter Height": "750 mm",
+      "size": "1200 x 350 x 300mm",
+      "Shape": "Rectangular",
+      "Usage/Application": "Indoor",
+      "Finishing Type": "Mold finish"
+    },
+    "image": "/images/products/indoor-grc-planter-primary.jpeg",
+    "images": [
+      "/images/products/indoor-grc-planter-primary.jpeg",
+      "/images/products/indoor-grc-planter-thumb.jpeg",
+      "/images/products/indoor-grc-planter-thumb-3.jpeg",
+      "/images/products/indoor-grc-planter-thumb-4.jpeg",
+      "/images/products/indoor-grc-planter-thumb-1.jpeg"
+    ]
+  },
+  {
+    "id": "green-fiberglass-planter-round",
+    "name": "Green Fiberglass Planter Round",
+    "category": "fiberglass-planter",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 1,250 / Piece",
+    "features": [
+      "Material: FRP (Fiberglass)",
+      "Shape: Round",
+      "Height Type: Custom"
+    ],
+    "specifications": {
+      "Material": "FRP (Fiberglass)",
+      "Shape": "Round",
+      "Height Type": "15 inch",
+      "Product Diameter": "9 inch",
+      "Usage": "Outdoor, Garden, Terrace, Lobby, Hotel, Mall, Office, Public Area",
+      "Weather Resistant": "yes"
+
+    },
+    "image": "/images/products/green-fiberglass-planter-round-primary.jpeg",
+    "images": [
+      "/images/products/green-fiberglass-planter-round-primary.jpeg",
+      "/images/products/green-fiberglass-planter-round-thumb.jpeg",
+      "/images/products/green-fiberglass-planter-round-thumb-1.jpeg",
+      "/images/products/green-fiberglass-planter-round-thumb-2.jpeg",
+      "/images/products/green-fiberglass-planter-round-thumb-3.jpeg",
+      "/images/products/green-fiberglass-planter-round-thumb-4.jpeg",
+      "/images/products/green-fiberglass-planter-round-thumb-5.jpeg"
+    ]
+  },
+  {
+    "id": "architectural-and-decorative-columns",
+    "name": "Architectural And Decorative Columns",
+    "category": "grc-columns",
+    "description": "Premium quality Architectural And Decorative Columns designed for durability and architectural elegance.",
+    "price": "Rs 400 / sq ft",
+    "features": [
+      "Design Style: Custom Theme",
+      "Material: GRC",
+      "Column Height: Custom",
+      "Shape: Rectangular"
+    ],
+    "specifications": {
+      "Design Style": "Custom Theme",
+      "Material": "GRC",
+      "Column Height": "Custom",
+      "Shape": "Rectangular",
+      "Color": "White",
+      "Load Bearing": "Non Structural"
+    },
+    "image": "/images/products/architectural-and-decorative-columns-primary.jpeg",
+    "images": [
+      "/images/products/architectural-and-decorative-columns-primary.jpeg",
+      "/images/products/architectural-and-decorative-columns-thumb.jpg",
+      "/images/products/architectural-and-decorative-columns-thumb-1.jpg",
+      "/images/products/architectural-and-decorative-columns-thumb-3.jpeg",
+      "/images/products/architectural-and-decorative-columns-thumb-4.jpeg"
+    ]
+  },
+  {
+    "id": "designer-grc-bracket",
+    "name": "Designer Grc Bracket",
+    "category": "grc-cornice",
+    "description": "GRC Brackets Manufacture. Glass Fiber Reinforced Concrete (GFRC) brackets are structural or decorative elements typically used in construction and architectural applications",
+    "price": "Rs 7,000 / Piece",
+    "features": [
+      "Material: GRC",
+      "Bracket Design: Classical",
+      "Bracket Size: Custom"
+    ],
+    "specifications": {
+      "Material": "GRC",
+      "Bracket Design": "Classical",
+      "Color": "White",
+      "Usage/Application": "outdoor",
+      "Height": "4 Feet"
+    },
+    "image": "/images/products/designer-grc-bracket-primary.jpg",
+    "images": [
+      "/images/products/designer-grc-bracket-primary.jpg",
+      "/images/products/designer-grc-bracket-thumb.jpg",
+      "/images/products/designer-grc-bracket-thumb-2.jpg",
+      "/images/products/designer-grc-bracket-thumb-3.jpeg",
+      "/images/products/designer-grc-bracket-thumb-4.jpg",
+      "/images/products/designer-grc-bracket-thumb-5.jpg"
+    ]
+  },
+  {
+    "id": "wall-cladding-grc-panel",
+    "name": "Wall Cladding GRC Panel",
+    "category": "grc-cladding",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 475 / Square Feet",
+    "features": [
+      "Panel Type: Decorative",
+      "Application Area: Exterior Wall, Elevation, Facade",
+      "Thickness: 15mm",
+      "Surface Finish: Smooth finish"
+    ],
+    "specifications": {
+      "Panel Type": "Decorative",
+      "Application Area": "Exterior Wall, Elevation, Facade",
+      "Thickness": "15mm",
+      "Surface Finish": "Smooth finish",
+      "Usage/Application": "Wall or facade",
+      "Reinforcement Type": "Glass Fiber"
+    },
+    "image": "/images/products/wall-cladding-grc-panel-primary.jpeg",
+    "images": [
+      "/images/products/wall-cladding-grc-panel-primary.jpeg",
+      "/images/products/wall-cladding-grc-panel-thumb.jpg",
+      "/images/products/wall-cladding-grc-panel-thumb-1.jpg",
+      "/images/products/wall-cladding-grc-panel-thumb-2.jpg",
+      "/images/products/wall-cladding-grc-panel-thumb-3.jpg",
+      "/images/products/wall-cladding-grc-panel-thumb-4.jpg"
+    ]
+  },
+  {
+    "id": "15mm-grc-panel",
+    "name": "15mm GRC Panel",
+    "category": "grc-panel",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 650 / sq ft",
+    "features": [
+      "Panel Type: Decorative",
+      "Application Area: Elevation, Facade, Exterior Wall",
+      "Thickness: 15mm",
+      "Reinforcement Type: Glass Fiber"
+    ],
+    "specifications": {
+      "Panel Type": "Decorative",
+      "Application Area": "Elevation, Facade, Exterior Wall",
+      "Thickness": "15mm",
+      "Reinforcement Type": "Glass Fiber",
+      "Surface Finish": "Smooth",
+      "Usage/Application": "Facade cladding",
+      "Color": "Off-White",
+      "Mounting Method":"Bracket Fix"
+    },
+    "image": "/images/products/15mm-grc-panel-primary.jpeg",
+    "images": [
+      "/images/products/15mm-grc-panel-primary.jpeg",
+      "/images/products/15mm-grc-panel-thumb.jpeg",
+      "/images/products/15mm-grc-panel-thumb-1.jpeg",
+      "/images/products/15mm-grc-panel-thumb-2.jpeg",
+      "/images/products/15mm-grc-panel-thumb-3.jpeg"
+    ]
+  },
+  {
+    "id": "white-grc-column",
+    "name": "White GRC Column",
+    "category": "grc-columns",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 400 / Square Feet",
+    "features": [
+      "Shape: Square",
+      "Material: GRC",
+      "Column Height: Custom",
+      "GRC Type: Precast GRC"
+    ],
+    "specifications": {
+      "Shape": "Square",
+      "Material": "GRC",
+      "Column Height": "Custom",
+      "GRC Type": "Precast GRC",
+      "Weight per Sq. ft": "3-4kg",
+      "Usage/Application": "Hotel",
+      "Surface Finish": "off-white"
+    },
+    "image": "/images/products/white-grc-column-primary.jpeg",
+    "images": [
+      "/images/products/white-grc-column-primary.jpeg",
+      "/images/products/white-grc-column-thumb.jpeg",
+      "/images/products/white-grc-column-thumb-1.jpeg",
+      "/images/products/white-grc-column-thumb-2.jpeg",
+      "/images/products/white-grc-column-thumb-3.jpeg",
+      "/images/products/white-grc-column-thumb-4.jpeg",
+      "/images/products/white-grc-column-thumb-5.jpeg",
+      "/images/products/white-grc-column-thumb-6.jpeg",
+      "/images/products/white-grc-column-thumb-7.jpeg",
+      "/images/products/white-grc-column-thumb-8.jpeg",
+      "/images/products/white-grc-column-thumb-9.jpeg",
+      "/images/products/white-grc-column-thumb-10.jpeg"
+    ]
+  },
+  {
+    "id": "grc-3d-wall-panel",
+    "name": "Grc 3d Wall Panel",
+    "category": "grc-jali",
+    "description": "GRC 3D panel .M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 345 / Piece",
+    "features": [
+      "Marterial: Cement",
+      "Thickness: 15 mm",
+      "Panel Size: Custom",
+      "Panel Material: GFRC",
+      "Color: Custom"
+    ],
+    "specifications": {
+      "Marterial": "Cement",
+      "Panel Size": "Custom",
+      "Thickness":"15 mm",
+      "Design Style": "3D",
+      "Panel Material": "GFRC",
+      "Flammability": "Non-flammable",
+      "Surface Finish": "Textured Finish",
+      "Weight": "kg"
+    },
+    "image": "/images/products/grc-3d-wall-panel-primary.jpg",
+    "images": [
+      "/images/products/grc-3d-wall-panel-primary.jpg",
+      "/images/products/grc-3d-wall-panel-thumb.jpeg",
+      "/images/products/grc-3d-wall-panel-thumb-1.jpeg",
+      "/images/products/grc-3d-wall-panel-thumb-2.jpeg",
+      "/images/products/grc-3d-wall-panel-thumb-3.jpeg",
+      "/images/products/grc-3d-wall-panel-thumb-6.jpg",
+      "/images/products/grc-3d-wall-panel-thumb-7.jpg",
+      "/images/products/grc-3d-wall-panel-thumb-8.jpg",
+      "/images/products/grc-3d-wall-panel-thumb-9.jpeg"
+    ]
+  },
+  {
+    "id": "grc-sculpture",
+    "name": "GRC Sculpture",
+    "category": "decorative-statue",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 65,000 / Piece",
+    "features": [
+      "Theme: Decorative",
+      "Height: Above 1200 mm",
+      "Material: Fiber"
+    ],
+    "specifications": {
+      "Minimun Order Quantity":"30 Piece",
+      "Theme": "Decorative",
+      "Height": "Above 1200 mm",
+      "Usage/Application": "Interior Decor",
+      "Pattern Type": "Sculpture",
+      "Size": "6 feet height",
+      "Color": "White",
+      "Surface Finish": "Paint Coated",
+      "Material": "Fiber"
+    },
+    "image": "/images/products/grc-sculpture-primary.JPG",
+    "images": [
+      "/images/products/grc-sculpture-primary.JPG",
+      "/images/products/grc-sculpture-thumb.jpeg",
+      "/images/products/grc-sculpture-thumb-1.jpeg",
+      "/images/products/grc-sculpture-thumb-2.jpeg",
+      "/images/products/grc-sculpture-thumb-3.jpeg"
+    ]
+  },
+  {
+    "id": "grc-antique-table-tops",
+    "name": "GRC ANTIQUE TABLE TOPS",
+    "category": "epoxy-resin-table",
+    "description": "Premium quality GRC ANTIQUE TABLE TOPS designed for durability and architectural elegance.",
+    "price": "Rs 5,000 / Piece",
+    "features": [
+      "Material: Ceramic",
+      "Top Shape: Customised",
+      "Thickness: 30 mm",
+      "Color: White"
+    ],
+    "specifications": {
+      "Minimun Order Quantity":"5 Piece",
+      "Material": "Ceramic",
+      "Thickness": "30 mm",
+      "Top Shape": "Customised",
+      "Usage/Application": "Restaurant",
+      "Shape": "Round",
+      "Surface Finish": "Polised",
+      "Color": "White"
+    },
+    "image": "/images/products/grc-antique-table-tops-primary.jpeg",
+    "images": [
+      "/images/products/grc-antique-table-tops-primary.jpeg",
+      "/images/products/grc-antique-table-tops-thumb.jpeg",
+      "/images/products/grc-antique-table-tops-thumb-1.jpeg",
+      "/images/products/grc-antique-table-tops-thumb-2.jpeg",
+      "/images/products/grc-antique-table-tops-thumb-3.jpeg"
+    ]
+  },
+  {
+    "id": "stair-gfrc-baluster",
+    "name": "Stair GFRC Baluster",
+    "category": "grc-panel",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 1,255 / Piece",
+    "features": [
+      "Height: 2 Feet",
+      "Material: GFRC",
+      "Baluster Shape: Decorative",
+      "Position: Stair"
+    ],
+    "specifications": {
+      "Height": "2 Feet",
+      "Material": "GFRC",
+      "Baluster Shape": "Decorative",
+      "Position": "Stair",
+      "Finish": "Smooth",
+      "Application Area": "Staircase, Terrace, Balcony"
+    },
+    "image": "/images/products/stair-gfrc-baluster-primary.jpeg",
+    "images": [
+      "/images/products/stair-gfrc-baluster-primary.jpeg",
+      "/images/products/stair-gfrc-baluster-thumb.jpeg",
+      "/images/products/stair-gfrc-baluster-thumb-1.jpeg",
+      "/images/products/stair-gfrc-baluster-thumb-2.jpeg",
+      "/images/products/stair-gfrc-baluster-thumb-3.jpeg",
+      "/images/products/stair-gfrc-baluster-thumb-5.jpeg",
+      "/images/products/stair-gfrc-baluster-thumb-6.jpeg",
+      "/images/products/stair-gfrc-baluster-thumb-7.jpeg"
+    ]
+  },
+  {
+    "id": "white-grc-jali",
+    "name": "White GRC Jali",
+    "category": "grc-jali",
+    "description": "Glass fibre reaifoced screen design i s moddern for house appartment and continue shaft .M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 400 / Square Feet",
+    "features": [
+      "Grade: GFRC",
+      "Usage Area: Facade",
+      "Pattern Type: Jaali Pattern",
+      "Finish: Smooth"
+    ],
+    "specifications": {
+      "Grade": "GFRC",
+      "Usage Area": "Facade",
+      "Pattern Type": "Jaali Pattern",
+      "Finish": "Smooth",
+      "Thickness": "30 mm",
+      "Reinforcement": "Glass Fiber",
+      "Finishing Type": "off white mold finish"
+    },
+    "image": "/images/products/white-grc-jali-primary.jpeg",
+    "images": [
+      "/images/products/white-grc-jali-primary.jpeg",
+      "/images/products/white-grc-jali-thumb.jpeg",
+      "/images/products/white-grc-jali-thumb-1.jpeg",
+      "/images/products/white-grc-jali-thumb-2.jpeg",
+      "/images/products/white-grc-jali-thumb-3.jpeg",
+      "/images/products/white-grc-jali-thumb-4.jpeg",
+      "/images/products/white-grc-jali-thumb-5.jpeg",
+      "/images/products/white-grc-jali-thumb-6.jpeg",
+      "/images/products/white-grc-jali-thumb-7.jpeg"
+    ]
+  },
+  {
+    "id": "white-design-grc-jali",
+    "name": "White Design Grc Jali",
+    "category": "grc-jali",
+    "description": "We provide the supply and installation of GRC Screens as per the approved design size and thickness 20-50mm as per the requirement and strectural requirement.",
+    "price": "Rs 300 / sq ft",
+    "features": [
+      "Grade: GFRC",
+      "Pattern Type: Jaali Pattern",
+      "Usage Area: Indoor, Facade, Outdoor, Balcony, Partition",
+      "Usage/Application: Decoration"
+    ],
+    "specifications": {
+      "Grade": "GFRC",
+      "Pattern Type": "Jaali Pattern",
+      "Usage Area": "Indoor, Facade, Outdoor, Balcony, Partition",
+      "Usage/Application": "Decoration"
+    },
+    "image": "/images/products/white-design-grc-jali-primary.jpeg",
+    "images": [
+      "/images/products/white-design-grc-jali-primary.jpeg",
+      "/images/products/white-design-grc-jali-thumb.jpeg",
+      "/images/products/white-design-grc-jali-thumb-1.jpeg",
+      "/images/products/white-design-grc-jali-thumb-2.jpeg",
+      "/images/products/white-design-grc-jali-thumb-3.jpeg",
+      "/images/products/white-design-grc-jali-thumb-4.jpeg"
+    ]
+  },
+  {
+    "id": "grc-mural-panels",
+    "name": "GRC MURAL PANELS",
+    "category": "grc-cladding",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 400 / Square Feet",
+    "features": [
+      "Panel Type: Decorative",
+      "Application Area: Facade, Exterior Wall, Elevation, Boundary Wall",
+      "Thickness: 25mm",
+      "Usage/Application: Wall Decoration"
+    ],
+    "specifications": {
+      "Panel Type": "Decorative",
+      "Application Area": "Facade, Exterior Wall, Elevation, Boundary Wall",
+      "Thickness": "25mm",
+      "Usage/Application": "Wall Decoration"
+    },
+    "image": "/images/products/grc-mural-panels-primary.jpeg",
+    "images": [
+      "/images/products/grc-mural-panels-primary.jpeg",
+      "/images/products/grc-mural-panels-thumb.jpeg",
+      "/images/products/grc-mural-panels-thumb-1.jpeg",
+      "/images/products/grc-mural-panels-thumb-3.jpeg"
+    ]
+  },
+  {
+    "id": "grc-breeze-block",
+    "name": "GRC Breeze Block",
+    "category": "grc-jali",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 600 / sq ft",
+    "features": [
+      "Pattern Type: Jaali Pattern",
+      "Grade: GFRC",
+      "Usage Area: Facade, Indoor, Outdoor, Balcony, Compound Wall, Boundary Wall, Window, Partition, Railing",
+      "Thickness: 10 mm"
+    ],
+    "specifications": {
+      "Pattern Type": "Jaali Pattern",
+      "Grade": "GFRC",
+      "Usage Area": "Facade, Indoor, Outdoor, Balcony, Compound Wall, Boundary Wall, Window, Partition, Railing",
+      "Thickness": "10 mm",
+      "size": "500 x 500", 
+      "Finishing Type": "Anti Slip",
+      "Application Area": "office",
+      "Color": "White",
+      "Usage/Application":"Decoration"
+    },
+    "image": "/images/products/grc-breeze-block-primary.jpg",
+    "images": [
+      "/images/products/grc-breeze-block-primary.jpg",
+      "/images/products/grc-breeze-block-thumb.jpg",
+      "/images/products/grc-breeze-block-thumb-3.jpeg",
+      "/images/products/grc-breeze-block-thumb-4.jpeg",
+      "/images/products/grc-breeze-block-thumb-5.jpg",
+      "/images/products/grc-breeze-block-thumb-6.jpg"
+    ]
+  },
+  {
+    "id": "grc-decorative-bracket",
+    "name": "GRC Decorative Bracket",
+    "category": "grc-jali",
+    "description": "Premium quality GRC Decorative Bracket designed for durability and architectural elegance.",
+    "price": "Rs 600 / sq ft",
+    "features": [
+      "Material: Fiberglass",
+      "Bracket Design: Classical",
+      "Bracket Size: Custom"
+    ],
+    "specifications": {
+      "Material": "Fiberglass",
+      "Bracket Design": "Classical",
+      "Bracket Size": "Custom",
+      "Color": "White",
+      "Usage/Application":"Contraction"
+    },
+    "image": "/images/products/grc-decorative-bracket-primary.jpeg",
+    "images": [
+      "/images/products/grc-decorative-bracket-primary.jpeg",
+      "/images/products/grc-decorative-bracket-thumb.jpeg",
+      "/images/products/grc-decorative-bracket-thumb-3.jpeg",
+      "/images/products/grc-decorative-bracket-thumb-4.jpeg",
+      "/images/products/grc-decorative-bracket-thumb-5.jpeg",
+      "/images/products/grc-decorative-bracket-thumb-6.jpg"
+    ]
+  },
+  {
+    "id": "grc-cornice",
+    "name": "GRC Cornice",
+    "category": "grc-cornice",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 400 / Square Feet",
+    "features": [
+      "Length: Custom",
+      "Material: GRC",
+      "Profile Design: Decorative"
+    ],
+    "specifications": {
+      "Minimun Order Quantity":"500 sq ft",
+      "Profile Design": "Decorative",
+      "Usage/Application": "Home",
+      "Length": "Custom",
+      "Material": "GRC",
+      "Color": "White"
+    },
+    "image": "/images/products/grc-cornice-primary.jpeg",
+    "images": [
+      "/images/products/grc-cornice-primary.jpeg",
+      "/images/products/grc-cornice-thumb.jpg",
+      "/images/products/grc-cornice-thumb-1.jpg",
+      "/images/products/grc-cornice-thumb-2.jpg",
+      "/images/products/grc-cornice-thumb-3.jpg",
+      "/images/products/grc-cornice-thumb-4.jpg",
+      "/images/products/grc-cornice-thumb-5.jpg",
+      "/images/products/grc-cornice-thumb-6.jpeg",
+      "/images/products/grc-cornice-thumb-7.jpg"
+    ]
+  },
+  {
+    "id": "grc-cladding-panel",
+    "name": "GRC Cladding Panel",
+    "category": "grc-cladding",
+    "description": "Grc cladding panels with the provision of cove lights .M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 500 / Square Feet",
+    "features": [
+      "Thickness: 10-20 mm",
+      "Application Area: Exterior Wall, Facade, Elevation",
+      "Panel Type: Decorative",
+      "Mounting Method: Bracket Fix"
+    ],
+    "specifications": {
+      "Thickness": "10-20 mm",
+      "Application Area": "Exterior Wall, Facade, Elevation",
+      "Panel Type": "Decorative",
+      "Mounting Method": "Bracket Fix",
+      "Surface Finish": "Smooth",
+      "Usage/Application": "Walls"
+    },
+    "image": "/images/products/grc-cladding-panel-primary.jpeg",
+    "images": [
+      "/images/products/grc-cladding-panel-primary.jpeg",
+      "/images/products/grc-cladding-panel-thumb.jpg",
+      "/images/products/grc-cladding-panel-thumb-1.jpg"
+    ]
+  },
+  {
+    "id": "grc-screen-jali",
+    "name": "GRC Screen Jali",
+    "category": "grc-jali",
+    "description": "M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 400 / Square Feet",
+    "features": [
+      "Grade: GFRC",
+      "Pattern Type: Jaali Pattern",
+      "Usage Area: Facade",
+      "Thickness: 30 mm"
+    ],
+    "specifications": {
+      "Grade": "GFRC",
+      "Pattern Type": "Jaali Pattern",
+      "Usage Area": "Facade",
+      "Thickness": "30 mm",
+      "Finish": "Smooth",
+      "Reinforcement": "Glass Fiber",
+      "Surface Finish": "Smooth",
+      "Color": "White"
+    },
+    "image": "/images/products/grc-screen-jali-primary.jpeg",
+    "images": [
+      "/images/products/grc-screen-jali-primary.jpeg",
+      "/images/products/grc-screen-jali-thumb.jpeg",
+      "/images/products/grc-screen-jali-thumb-1.jpeg",
+      "/images/products/grc-screen-jali-thumb-2.jpeg",
+      "/images/products/grc-screen-jali-thumb-3.jpeg",
+      "/images/products/grc-screen-jali-thumb-4.jpeg",
+      "/images/products/grc-screen-jali-thumb-5.jpeg",
+      "/images/products/grc-screen-jali-thumb-11.jpeg"
+    ]
+  },
+  {
+    "id": "decorative-grc-domes",
+    "name": "Decorative Grc Domes",
+    "category": "grc-panel",
+    "description": "Premium quality Decorative Grc Domes designed for durability and architectural elegance.",
+    "price": "Rs 1,250 / sq ft",
+    "features": [
+      "Dome Shape: Custom",
+      "Sheet Thickness: 4 mm",
+      "Dome Material: FRP",
+      "Material: GRC"
+    ],
+    "specifications": {
+      "Dome Shape": "Custom",
+      "Sheet Thickness": "4 mm",
+      "Shape": "Pyramid",
+      "Dome Material": "FRP",
+      "Material": "GRC"
+    },
+    "image": "/images/products/decorative-grc-domes-primary.jpeg",
+    "images": [
+      "/images/products/decorative-grc-domes-primary.jpeg",
+      "/images/products/decorative-grc-domes-thumb.jpeg",
+      "/images/products/decorative-grc-domes-thumb-1.jpeg"
+    ]
+  },
+  {
+    "id": "frp-decorative-pillar",
+    "name": "Frp Decorative Pillar",
+    "category": "grc-columns",
+    "description": "GFRP (GLASS FIBRE REINFORCED POLYMER) COLUMNS.",
+    "price": "Rs 400 / sq ft",
+    "features": [
+      "Pillar Height: 9 ft",
+      "Pillar Shape: Round",
+      "Surface Finish: Glossy",
+      "Shape: Rectangular"
+    ],
+    "specifications": {
+      "Pillar Height": "9 ft",
+      "Pillar Shape": "Round",
+      "Surface Finish": "Glossy",
+      "Shape": "Rectangular"
+    },
+    "image": "/images/products/frp-decorative-pillar-primary.jpg",
+    "images": [
+      "/images/products/frp-decorative-pillar-primary.jpg"
+    ]
+  },
+  {
+    "id": "grc-bathroom-basin",
+    "name": "GRC Bathroom Basin",
+    "category": "pedestals-basins",
+    "description": "GRC basins in customised design as per requirement.M/S Hs Architectural Solutions - Manufacturer , Trader And Wholesaler Of GRC Jali, GRC Planter And GRC Cladding Since 2022 In Faridabad, Haryana.",
+    "price": "Rs 25,500 / Piece",
+    "features": [
+      "Mounting Type: Pedestal",
+      "Material: Ceramic",
+      "Basin Shape: Round"
+    ],
+    "specifications": {
+      "Mounting Type": "Pedestal",
+      "Material": "Ceramic",
+      "Basin Shape": "Round",
+      "Type of Sanitary ware":"Wash Basin",
+      "Wash Basin Type": "Table Top Basin",
+      "Surface Finish":"Glossy",
+      "Is It Customised": "yes"
+    },
+    "image": "/images/products/grc-bathroom-basin-primary.jpeg",
+    "images": [
+      "/images/products/grc-bathroom-basin-primary.jpeg",
+      "/images/products/grc-bathroom-basin-thumb.jpeg",
+      "/images/products/grc-bathroom-basin-thumb-1.jpeg",
+      "/images/products/grc-bathroom-basin-thumb-2.jpeg",
+      "/images/products/grc-bathroom-basin-thumb-3.jpeg",
+      "/images/products/grc-bathroom-basin-thumb-4.jpeg",
+      "/images/products/grc-bathroom-basin-thumb-5.jpeg",
+      "/images/products/grc-bathroom-basin-thumb-6.jpeg",
+      "/images/products/grc-bathroom-basin-thumb-7.jpeg"
+    ]
+  }
+]
