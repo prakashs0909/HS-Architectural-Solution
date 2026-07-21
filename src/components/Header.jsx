@@ -44,9 +44,9 @@ export const Header = () => {
       <nav className="w-full glass-panel border-b border-white/5 px-4 md:px-8 py-4 flex items-center justify-between transition-all duration-300">
         <Link to="/" className="flex items-center gap-3 group">
           <img 
-            src="/company-logo.jpg" 
+            src="/company-logo.png" 
             alt="HS Architectural Solutions Logo" 
-            className="w-10 h-10 object-cover rounded-lg border border-white/10 group-hover:border-brand-gold/50 transition-colors duration-300"
+            className="h-11 w-auto object-contain group-hover:scale-105 transition-transform duration-300"
           />
           <div className="flex flex-col">
             <span className="font-display font-extrabold text-lg md:text-xl tracking-tight text-white flex items-center gap-1">

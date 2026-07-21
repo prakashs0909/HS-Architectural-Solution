@@ -80,7 +80,7 @@ export const useSEO = ({ title, description, keywords, canonical, schema, robots
     updateOGTag('og:description', description)
     updateOGTag('og:url', currentUrl)
     updateOGTag('og:type', ogType || 'website')
-    updateOGTag('og:image', ogImage || 'https://www.hsarchitecturalsolutions.com/company-logo.jpg')
+    updateOGTag('og:image', ogImage || 'https://www.hsarchitecturalsolutions.com/company-logo.png')
 
     // 7. Update Twitter Tags
     const updateTwitterTag = (property, content) => {
@@ -100,7 +100,7 @@ export const useSEO = ({ title, description, keywords, canonical, schema, robots
     updateTwitterTag('twitter:title', title)
     updateTwitterTag('twitter:description', description)
     updateTwitterTag('twitter:url', currentUrl)
-    updateTwitterTag('twitter:image', ogImage || 'https://www.hsarchitecturalsolutions.com/company-logo.jpg')
+    updateTwitterTag('twitter:image', ogImage || 'https://www.hsarchitecturalsolutions.com/company-logo.png')
 
     // 8. Inject / Update JSON-LD schema
     let scriptSchema = document.querySelector('script[type="application/ld+json"]')

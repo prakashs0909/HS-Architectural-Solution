@@ -15,7 +15,7 @@ export const Home = () => {
       '@context': 'https://schema.org',
       '@type': 'LocalBusiness',
       'name': 'HS Architectural Solutions',
-      'image': 'https://www.hsarchitecturalsolutions.com/company-logo.jpg',
+      'image': 'https://www.hsarchitecturalsolutions.com/company-logo.png',
       '@id': 'https://www.hsarchitecturalsolutions.com/#localbusiness',
       'url': 'https://www.hsarchitecturalsolutions.com/',
       'telephone': '+91-7942957964',
