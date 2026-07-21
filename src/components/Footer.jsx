@@ -87,7 +87,7 @@ export const Footer = () => {
             <li className="flex gap-2.5">
               <MapPin className="w-5 h-5 text-brand-gold shrink-0 mt-0.5" />
               <span>
-                Mustli No 137, Khewat No 311/284, Khatauni No 335, Near ACP Farm House, Behind Nayagaon Petrolpump, Nayagaon, Faridabad - 121004, Haryana, India
+                Mustli No 137, Khewat No 311/284, Khatauni No 335, Gothda, Gothda Mohbtabad, Faridabad - 121004, Haryana, India
               </span>
             </li>
             <li className="flex items-center gap-2.5">

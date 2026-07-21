@@ -21,7 +21,7 @@ export const Home = () => {
       'telephone': '+91-8448103775',
       'address': {
         '@type': 'PostalAddress',
-        'streetAddress': 'Mustli No 137, Khewat No 311/284, Khatauni No 335, Near ACP Farm House, Behind Nayagaon Petrolpump, Nayagaon',
+        'streetAddress': 'Mustli No 137, Khewat No 311/284, Khatauni No 335, Gothda, Gothda Mohbtabad',
         'addressLocality': 'Faridabad',
         'addressRegion': 'Haryana',
         'postalCode': '121004',
@@ -29,8 +29,8 @@ export const Home = () => {
       },
       'geo': {
         '@type': 'GeoCoordinates',
-        'latitude': 28.3752,
-        'longitude': 77.3082
+        'latitude': 28.3815,
+        'longitude': 77.2224
       },
       'openingHoursSpecification': {
         '@type': 'OpeningHoursSpecification',
@@ -316,7 +316,7 @@ export const Home = () => {
               <div>
                 <h4 className="text-sm font-semibold text-white uppercase tracking-wider mb-2 font-display">Factory Address</h4>
                 <p className="text-xs text-slate-400 leading-relaxed font-sans">
-                  Mustli No 137, Khewat No 311/284, Khatauni No 335, Near ACP Farm House, Behind Nayagaon Petrolpump, Nayagaon, Faridabad - 121004, Haryana, India
+                  Mustli No 137, Khewat No 311/284, Khatauni No 335, Gothda, Gothda Mohbtabad, Faridabad - 121004, Haryana, India
                 </p>
               </div>
               <div>
@@ -332,7 +332,7 @@ export const Home = () => {
 
             <div className="mt-8 pt-6 border-t border-white/5">
               <a 
-                href="https://maps.google.com?q=28.40094,77.30343"
+                href="https://www.google.com/search?client=ms-android-xiaomi-rvo2b&hs=WaIq&sca_esv=a75f3b595b8525f4&sxsrf=APpeQnvDrInMv2P41nH8K3N2Dxm5gySm4w%3A1784635906879&kgmid=%2Fg%2F11mrqrvyzg&q=HS%20Architectural%20Solutions&shem=epsd1%2Cltae%2Crimspwouohc&shndl=30&source=sh%2Fx%2Floc%2Fact%2Fm1%2F2&kgs=12046b9a7e349aaa"
                 target="_blank" 
                 rel="noopener noreferrer"
               >
@@ -347,7 +347,7 @@ export const Home = () => {
           {/* Embedded Google Maps */}
           <div className="lg:col-span-2 relative min-h-[350px] rounded-xl overflow-hidden border border-white/5 bg-brand-charcoal/20">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3511.4589252328766!2d77.30124131507612!3d28.400939982509176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cdc10a12e2c2f%3A0xe4d3bf2f07cf1378!2sNayagaon%2C%20Faridabad%2C%20Haryana%20121004!5e0!3m2!1sen!2sin!4v1689689400000!5m2!1sen!2sin" 
+              src="https://maps.google.com/maps?q=HS%20Architectural%20Solutions%2C%20Gothda%20Mohbtabad%2C%20Faridabad%2C%20Haryana%20121004&t=&z=15&ie=UTF8&iwloc=&output=embed" 
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 

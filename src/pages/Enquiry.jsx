@@ -23,7 +23,7 @@ export const Enquiry = () => {
         'telephone': '+91-8448103775',
         'address': {
           '@type': 'PostalAddress',
-          'streetAddress': 'Mustli No 137, Khewat No 311/284, Khatauni No 335, Near ACP Farm House, Behind Nayagaon Petrolpump, Nayagaon',
+          'streetAddress': 'Mustli No 137, Khewat No 311/284, Khatauni No 335, Gothda, Gothda Mohbtabad',
           'addressLocality': 'Faridabad',
           'addressRegion': 'Haryana',
           'postalCode': '121004',
@@ -207,7 +207,7 @@ export const Enquiry = () => {
                 <div>
                   <h4 className="font-semibold text-white mb-1.5 font-display">Manufacturing Plant</h4>
                   <p className="text-xs text-slate-400 leading-relaxed font-sans">
-                    Mustli No 137, Khewat No 311/284, Khatauni No 335, Near ACP Farm House, Behind Nayagaon Petrolpump, Nayagaon, Faridabad - 121004, Haryana, India
+                    Mustli No 137, Khewat No 311/284, Khatauni No 335, Gothda, Gothda Mohbtabad, Faridabad - 121004, Haryana, India
                   </p>
                 </div>
               </div>

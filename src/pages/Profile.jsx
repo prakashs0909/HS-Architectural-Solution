@@ -72,7 +72,7 @@ export const Profile = () => {
     { label: 'Import Export Code (IEC)', value: 'GILPK3729P' },
     { label: 'Key Contact Person', value: 'Parvendra Kumar' },
     { label: 'Primary Payment Modes', value: 'Cash, DD, Bank Transfer, Cheque' },
-    { label: 'Factory Location', value: 'Nayagaon, Faridabad, Haryana' }
+    { label: 'Factory Location', value: 'Gothda, Gothda Mohbtabad, Faridabad, Haryana' }
   ]
 
   const corporateValues = [
